@@ -122,7 +122,7 @@ a {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url("images/hero-pizza.jpg") center right / cover no-repeat;
+  background: url("images/kasas-pizza.jpeg") center right / cover no-repeat;
   transform: scale(1.03);
 }
 
